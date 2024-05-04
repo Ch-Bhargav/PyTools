@@ -1,7 +1,3 @@
-Sure, here's some documentation you could add to your GitHub repository for this script:
-
----
-
 ## HTTP Packet Sniffer
 
 This Python script utilizes the Scapy library to sniff HTTP packets on a specified network interface. It detects HTTP requests and extracts potential sensitive information such as usernames, passwords, and email addresses from the packet payloads.
@@ -46,9 +42,5 @@ python http_sniffer.py -i eth0
 ### Author
 
 [Your Name or Username] - [Link to GitHub Profile or Contact Information]
-
-### License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ---
